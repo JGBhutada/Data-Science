@@ -1,2 +1,2 @@
 # Data-Science
-Contains all the projects done by me inthe domain of Data science
+This Repository contains all the code and related information of the projects / implementations in Data Science Domain.  
